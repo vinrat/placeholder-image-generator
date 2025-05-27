@@ -4,9 +4,10 @@
 Generate placeholder images with custom dimensions and watermarked text (e.g., 560x201) directly in the browser — no backend needed!
 
 Project Structure
-plaintext
-Copy
-Edit
+
+
+
+
 placeholder-image-generator/
 │
 ├── index.html         # Main HTML + JavaScript app
